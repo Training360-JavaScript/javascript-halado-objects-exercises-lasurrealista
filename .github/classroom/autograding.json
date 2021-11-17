@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "javascript-halado-objects-exercises",
+      "setup": "npm install",
+      "run": "npm run test:objects",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 5,
+      "points": 17
+    }
+  ]
+}
